@@ -36,4 +36,4 @@ end
 RandomLeft()
 
 -- call a right set
-RandomRight
+RandomRight()
